@@ -20,12 +20,12 @@ Learn the core ideas in machine learning, and build your first models.
 Make great data visualizations. A great way to see the power of coding!
 
 
-## 12. atural Language Processing
+## 12. Natural Language Processing
 
 Distinguish yourself by learning to work with text data.
 
 
-### 1. Intro to NLP
+### 1) Intro to NLP
 Get started with NLP.
 
 Tutorial: https://www.kaggle.com/matleonard/intro-to-nlp
@@ -33,7 +33,7 @@ Tutorial: https://www.kaggle.com/matleonard/intro-to-nlp
 Exercise: https://www.kaggle.com/grapestone5321/exercise-intro-to-nlp/edit
 
 
-### 2. Text Classification
+### 2) Text Classification
 Combine machine learning with your newfound NLP skills.
 
 
@@ -43,7 +43,7 @@ Exercise: https://www.kaggle.com/grapestone5321/exercise-text-classification/edi
 
 
 
-### 3. Word Vectors
+### 3) Word Vectors
 Explore an idea that ushered in a new generation of NLP techniques.
 
 Tutorial: https://www.kaggle.com/matleonard/word-vectors
