@@ -28,27 +28,25 @@ Distinguish yourself by learning to work with text data.
 ### 1. Intro to NLP
 Get started with NLP.
 
-Tutorial
+Tutorial: https://www.kaggle.com/matleonard/intro-to-nlp
 
-https://www.kaggle.com/matleonard/intro-to-nlp
-
-Exercise
+Exercise: https://www.kaggle.com/grapestone5321/exercise-intro-to-nlp/edit
 
 
 ### 2. Text Classification
 Combine machine learning with your newfound NLP skills.
 
 
-Tutorial
+Tutorial: https://www.kaggle.com/matleonard/text-classification
 
-Exercise
+Exercise: https://www.kaggle.com/grapestone5321/exercise-text-classification/edit
 
 
 
 ### 3. Word Vectors
 Explore an idea that ushered in a new generation of NLP techniques.
 
-Tutorial
+Tutorial: https://www.kaggle.com/matleonard/word-vectors
 
-Exercise
+Exercise: https://www.kaggle.com/grapestone5321/exercise-word-vectors/edit
 
