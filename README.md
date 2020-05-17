@@ -106,6 +106,14 @@ Learn SQL for working with databases, using Google BigQuery to scale to massive 
 
 Take your SQL skills to the next level.
 
+## 9. Geospatial Analysis
+
+Create interactive maps, and discover patterns in geospatial data.
+
+## 10. Microchallenges
+
+Solve ultra-short challenges to build and test your skill.
+
 ## 11. Machine Learning Explainability
 
 Extract human-understandable insights from any machine learning model.
@@ -140,4 +148,10 @@ Explore an idea that ushered in a new generation of NLP techniques.
 Tutorial: https://www.kaggle.com/matleonard/word-vectors
 
 Exercise: https://www.kaggle.com/grapestone5321/exercise-word-vectors/edit
+
+
+## 13. Intro to Game AI and Reinforcement Learning
+
+Build your own video game bots, using classic algorithms and cutting-edge techniques.
+
 
