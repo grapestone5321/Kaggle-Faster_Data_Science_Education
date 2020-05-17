@@ -24,8 +24,13 @@ Make great data visualizations. A great way to see the power of coding!
 Use TensorFlow to take machine learning to the next level. Your new skills will amaze you.
 
 
-Tutorial
-Exercise
+### Instructor: Dan Becker
+
+Data Scientist
+
+Dan has done data science consulting for 6 companies in the Fortune 100 and contributed to the Keras library for deep learning. 
+
+He has a PhD in Econometrics.
 
 ### 1) Intro to DL for Computer Vision
 
