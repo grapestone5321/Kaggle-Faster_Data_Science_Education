@@ -19,6 +19,82 @@ Learn the core ideas in machine learning, and build your first models.
 
 Make great data visualizations. A great way to see the power of coding!
 
+## 6. Deep Learning
+
+Use TensorFlow to take machine learning to the next level. Your new skills will amaze you.
+
+
+Tutorial
+Exercise
+
+### 1) Intro to DL for Computer Vision
+
+A quick overview of how models work on images.
+
+Tutorial: https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision
+
+Exercise
+
+### 2) Building Models From Convolutions
+
+Scale up from simple building blocks to models with beyond human capabilities.
+
+Tutorial: https://www.kaggle.com/dansbecker/building-models-from-convolutions
+
+
+
+### 3) TensorFlow Programming
+
+Start writing code using TensorFlow and Keras
+
+Tutorial: https://www.kaggle.com/dansbecker/tensorflow-programming
+
+Exercise
+
+### 4) Transfer Learning
+
+A powerful technique to build highly accurate models even with limited data.
+
+Tutorial: https://www.kaggle.com/dansbecker/transfer-learning
+
+Exercise
+
+### 5) Data Augmentation
+
+Learn a simple trick that effectively increases amount of data available for model training.
+
+Tutorial: https://www.kaggle.com/dansbecker/data-augmentation
+
+Exercise
+
+### 6) A Deeper Understanding of Deep Learning
+
+How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
+
+Tutorial: https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning
+
+Exercise
+
+### 7) Deep Learning From Scratch
+
+Build models without transfer learning. Especially important for uncommon image types.
+
+Tutorial: https://www.kaggle.com/dansbecker/deep-learning-from-scratch
+
+Exercise
+
+### 8) Dropout and Strides for Larger Models
+
+Make your models faster and reduce overfitting
+
+Tutorial: https://www.kaggle.com/dansbecker/dropout-and-strides-for-larger-models
+
+Exercise
+
+## 11. Machine Learning Explainability
+
+Extract human-understandable insights from any machine learning model.
+
 
 ## 12. Natural Language Processing
 
