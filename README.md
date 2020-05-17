@@ -96,6 +96,16 @@ Tutorial: https://www.kaggle.com/dansbecker/dropout-and-strides-for-larger-model
 
 Exercise
 
+
+
+## 7. Intro to SQL
+
+Learn SQL for working with databases, using Google BigQuery to scale to massive datasets.
+
+## 8. Advanced SQL
+
+Take your SQL skills to the next level.
+
 ## 11. Machine Learning Explainability
 
 Extract human-understandable insights from any machine learning model.
