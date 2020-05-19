@@ -14,6 +14,71 @@ Learn the most important language for data science.
 
 Learn the core ideas in machine learning, and build your first models.
 
+### 1) How Models Work
+
+The first step if you're new to machine learning
+
+Tutorial
+
+Exercise
+
+### 2) Basic Data Exploration
+
+Load and understand your data
+
+Tutorial
+
+Exercise
+
+### 3) Your First Machine Learning Model
+
+Building your first model. Hurray!
+
+Tutorial
+
+Exercise
+
+### 4) Model Validation
+
+Measure the performance of your model ? so you can test and compare alternatives
+
+Tutorial
+
+Exercise
+
+### 5) Underfitting and Overfitting
+
+Fine-tune your model for better performance.
+
+Tutorial
+
+Exercise
+
+### 6) Random Forests
+
+Using a more sophisticated machine learning algorithm.
+
+Tutorial
+
+Exercise
+
+### 7) Exercise: Machine Learning Competitions
+
+Enter the world of machine learning competitions to keep improving and see your progress
+
+Tutorial
+
+Exercise
+
+## Bonus Lessons
+
+### 8) Getting Started With Titanic
+
+Create your own Kaggle Notebooks to organize your work in competitions.
+
+Tutorial
+
+Exercise
 
 ## 3. Data Visualization
 
