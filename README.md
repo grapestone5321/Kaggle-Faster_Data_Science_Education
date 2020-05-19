@@ -70,15 +70,15 @@ Tutorial
 
 Exercise
 
-## Bonus Lessons
+### Bonus Lessons
 
 ### 8) Getting Started With Titanic
 
 Create your own Kaggle Notebooks to organize your work in competitions.
 
-Tutorial
+Tutorial: https://www.kaggle.com/alexisbcook/getting-started-with-titanic
 
-Exercise
+
 
 ## 3. Data Visualization
 
