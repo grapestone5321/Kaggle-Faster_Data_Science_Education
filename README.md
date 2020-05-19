@@ -19,7 +19,7 @@ Learn the core ideas in machine learning, and build your first models.
 
 Make great data visualizations. A great way to see the power of coding!
 
-## 3. Pandas
+## 4. Pandas
 
 Solve short hands-on challenges to perfect your data manipulation skills.
 
