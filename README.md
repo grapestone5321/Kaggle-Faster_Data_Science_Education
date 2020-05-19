@@ -23,6 +23,10 @@ Make great data visualizations. A great way to see the power of coding!
 
 Solve short hands-on challenges to perfect your data manipulation skills.
 
+## 5. Feature Engineering
+
+Discover the most effective way to improve your models.
+
 ## 6. Deep Learning
 
 Use TensorFlow to take machine learning to the next level. Your new skills will amaze you.
